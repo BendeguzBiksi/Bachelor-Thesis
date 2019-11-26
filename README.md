@@ -1,2 +1,2 @@
-# Bachelor-Thesis
+# Bachelor Thesis
 Bachelor Thesis in Hungarian
